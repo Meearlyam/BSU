@@ -1,4 +1,4 @@
 ## BSU, FAMCS, University labs
 
-* [WEB-программирование](../WEB)
-* [МДиСУБД](../DBMS)
+* [WEB-программирование](https://github.com/Meearlyam/BSU/tree/master/WEB)
+* [Модели данных и СУБД](../DBMS)
