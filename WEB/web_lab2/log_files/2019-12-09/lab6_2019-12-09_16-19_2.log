@@ -1,0 +1,73 @@
+2019-12-09 16:19:16 INFO  [runner.Server.main]: Create company
+2019-12-09 16:19:17 INFO  [runner.Server.main]: Register company
+2019-12-09 16:19:22 INFO  [runner.Client.main]: I came to the company
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+ =========== COMPANY FULL STAFF LIST =========== 
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Mark Austin (accountant 1)
+Salary: 400,66
+Department: Finance department
+Experience: 1,1
+Monthly reports amount: 3
+ Calculation areas amount: -1
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Kate Sawyer (accountant 2)
+Salary: 400,34
+Department: Finance department
+Experience: 2,0
+Monthly reports amount: 5
+ Calculation areas amount: 1
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Mary Katy (receptionist)
+Salary: 200,18
+Department: Finance department
+Experience: 1,6
+Monthly reports amount: 3
+ Calls amount: -125
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Dave Winning (foreman)
+Salary: 200,07
+Department: Workman department
+Experience: 15,4
+Monthly worked shifts amount: 14
+Subordinated workers amount: 7
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Mitchel Knight (loader 1)
+Salary: 400,02
+Department: Workman department
+Experience: 15,6
+Monthly worked shifts amount: 12
+Max kilos to lift: 15
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Terry Krowly (loader 2)
+Salary: 400,86
+Department: Workman department
+Experience: 15,0
+Monthly worked shifts amount: 13
+Max kilos to lift: 12
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Paul Smith (welder 1)
+Salary: 200,54
+Department: Workman department
+Experience: 15,6
+Monthly worked shifts amount: 15
+Skills to weld ships: NO
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+Name: Stacy Connor
+Salary: 200,29
+Department: Workman department
+Experience: 15,1
+Monthly worked shifts amount: 19
+Skills to weld ships: YES
+
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: 
+ =========== Staff of WORKMAN DEPARTMENT with experience less than 3 years =========== 
+2019-12-09 16:19:23 INFO  [runner.Client.printStaffList]: No staff
+2019-12-09 16:19:23 INFO  [runner.Client.main]: I go out from the company

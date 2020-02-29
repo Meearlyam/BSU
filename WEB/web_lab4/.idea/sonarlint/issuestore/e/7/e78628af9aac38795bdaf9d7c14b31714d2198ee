@@ -1,0 +1,6 @@
+
+Šsquid:S13198"sThe type of the "newBooks" object should be an interface such as "List" rather than the implementation "ArrayList".(­çÀä
+4squid:S2119I"Save and re-use this "Random".(¼İÅf
+Ksquid:S1068#"/Remove this unused "readingRoom" private field.(æ¯•üÿÿÿÿ
+squid:S1319\"sThe type of the "newBooks" object should be an interface such as "List" rather than the implementation "ArrayList".(òÍ¸Šıÿÿÿÿ
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(îò¿ïúÿÿÿÿ

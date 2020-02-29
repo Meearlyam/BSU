@@ -1,0 +1,10 @@
+
+fsquid:S2259E"JA "NullPointerException" could be thrown; "secondThread" is nullable here.(˜…žµÿÿÿÿÿ
+asquid:S22598"JA "NullPointerException" could be thrown; "secondThread" is nullable here.(óÐ¢¨
+tsquid:S1192$"XDefine a constant instead of duplicating this literal "Reader id isn't correct" 3 times.(Ù“ë±øÿÿÿÿ
+esquid:S22597"IA "NullPointerException" could be thrown; "firstThread" is nullable here.(¼”á—øÿÿÿÿ
+]squid:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+`squid:S22599"IA "NullPointerException" could be thrown; "thirdThread" is nullable here.(ÚÂ®ø
+]squid:S2142K"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+`squid:S2259J"IA "NullPointerException" could be thrown; "thirdThread" is nullable here.(Ð’òî

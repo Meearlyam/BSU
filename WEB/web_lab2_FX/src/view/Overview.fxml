@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="500.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.Controller">
+   <children>
+      <SplitPane dividerPositions="0.29797979797979796" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="398.0" prefWidth="425.0">
+               <children>
+                  <Button layoutX="14.0" layoutY="40.0" mnemonicParsing="false" onAction="#onSortByExperienceTapped" prefHeight="9.0" prefWidth="149.0" text="Sort by experience" />
+                  <Label layoutX="14.0" layoutY="118.0" prefHeight="17.0" prefWidth="59.0" text="Name" />
+                  <TextField id="nameTextField" fx:id="nameTextField" layoutX="14.0" layoutY="137.0" prefHeight="11.0" prefWidth="149.0" />
+                  <TextField id="departmentTextField" fx:id="departmentTextField" layoutX="13.0" layoutY="183.0" prefHeight="25.0" prefWidth="149.0" />
+                  <Label layoutX="13.0" layoutY="165.0" text="Department" />
+                  <TextField id="minTextField" fx:id="minTextField" layoutX="22.0" layoutY="313.0" prefHeight="25.0" prefWidth="57.0" />
+                  <Button id="addButton" layoutX="55.0" layoutY="221.0" mnemonicParsing="false" onAction="#onAddButtonTapped" prefHeight="25.0" prefWidth="64.0" text="Add" />
+                  <TextField id="maxTextField" fx:id="maxTextField" layoutX="97.0" layoutY="313.0" prefHeight="25.0" prefWidth="57.0" />
+                  <Label layoutX="22.0" layoutY="291.0" text="min" />
+                  <Label layoutX="97.0" layoutY="292.0" text="max" />
+                  <Button layoutX="19.0" layoutY="347.0" mnemonicParsing="false" onAction="#onSelectByExperienceTapped" prefHeight="25.0" prefWidth="139.0" text="Select by experience" />
+                  <Button id="selectByDepartmentButton" layoutX="19.0" layoutY="454.0" mnemonicParsing="false" onAction="#onSelectByDepartmentTapped" prefHeight="25.0" prefWidth="139.0" text="Select by department" />
+                  <CheckBox id="workmanCheckBox" fx:id="workmanCheckBox" layoutX="19.0" layoutY="405.0" mnemonicParsing="false" prefHeight="17.0" prefWidth="139.0" text="Workman" />
+                  <CheckBox id="financeCheckBox" fx:id="financeCheckBox" layoutX="19.0" layoutY="428.0" mnemonicParsing="false" text="Finance" />
+                  <CheckBox fx:id="isReversedCheckBox" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="reversed sequence" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <TableView fx:id="tableView" layoutX="62.0" layoutY="51.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <columns>
+                      <TableColumn id="nameColumn" fx:id="nameColumn" prefWidth="174.00001525878906" text="Name" />
+                      <TableColumn id="experienceColumn" fx:id="experienceColumn" text="Experience" />
+                        <TableColumn id="salaryColumn" fx:id="salaryColumn" prefWidth="69.33331298828125" text="Salary" />
+                        <TableColumn id="departmentColumn" fx:id="departmentColumn" prefWidth="126.66665649414062" text="Department" />
+                    </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

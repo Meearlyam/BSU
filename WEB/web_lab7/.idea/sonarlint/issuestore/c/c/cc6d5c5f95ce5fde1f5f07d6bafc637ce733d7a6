@@ -1,0 +1,9 @@
+
+osquid:S3776å"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çºöüÿÿÿÿ
+ksquid:S1192ï"SDefine a constant instead of duplicating this literal "Workman department" 3 times.(í¼§
+Bsquid:S5411ı"*Use the primitive boolean expression here.(´áŸ„
+Gsquid:S5411î"*Use the primitive boolean expression here.(ßò’øÿÿÿÿ
+Jsquid:S1068$".Remove this unused "department" private field.(š…¡êûÿÿÿÿ
+Gsquid:S5411ò"*Use the primitive boolean expression here.(îö£©ùÿÿÿÿ
+Bsquid:S5411í"*Use the primitive boolean expression here.(‡æ—ƒ
+„squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(åõÄ„şÿÿÿÿ8©Ğ‰ñ-

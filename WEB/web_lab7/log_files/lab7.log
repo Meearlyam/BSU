@@ -1,0 +1,87 @@
+INFO  [runner.Runner.main]: Company was created
+INFO  [runner.Runner.main]: Valid xml
+INFO  [runner.Runner.main]: Try to parse xml
+INFO  [runner.Runner.main]: Add parsed staff into company
+INFO  [runner.Runner.printStaffList]: 
+ ========================= FULL LIST OF STAFF IN COMPANY ========================= 
+INFO  [runner.Runner.printStaffList]: 
+Name: Accountant1
+Salary: 190,50
+Department: Finance department
+Experience: 3,4
+Monthly reports amount: 20
+ Calculation areas amount: 4
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Accountant2
+Salary: 124,25
+Department: Finance department
+Experience: 1,2
+Monthly reports amount: 10
+ Calculation areas amount: 2
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Receptionist1
+Salary: 140,20
+Department: Finance department
+Experience: 5,1
+Monthly reports amount: 15
+ Calls amount: 40
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Receptionist2
+Salary: 190,45
+Department: Finance department
+Experience: 6,3
+Monthly reports amount: 13
+ Calls amount: 53
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Foreman1
+Salary: 220,50
+Department: Workman department
+Experience: 5,2
+Monthly worked shifts amount: 15
+Subordinated workers amount: 20
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Foreman2
+Salary: 420,50
+Department: Workman department
+Experience: 14,8
+Monthly worked shifts amount: 10
+Subordinated workers amount: 70
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Loader1
+Salary: 180,00
+Department: Workman department
+Experience: 1,1
+Monthly worked shifts amount: 25
+Max kilos to lift: 120
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Loader2
+Salary: 130,00
+Department: Workman department
+Experience: 0,6
+Monthly worked shifts amount: 20
+Max kilos to lift: 80
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Welder1
+Salary: 260,45
+Department: Workman department
+Experience: 8,4
+Monthly worked shifts amount: 12
+Skills to weld ships: NO
+
+INFO  [runner.Runner.printStaffList]: 
+Name: Welder2
+Salary: 280,20
+Department: Workman department
+Experience: 4,1
+Monthly worked shifts amount: 18
+Skills to weld ships: YES
+
+INFO  [runner.Runner.main]: Finish work

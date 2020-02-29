@@ -1,0 +1,28 @@
+23:24:57 INFO  [database_layer.<init>]: Properties file loaded
+23:24:57 INFO  [database_layer.<init>]: Driver loaded
+23:24:57 INFO  [database_layer.<init>]: Connection 0 was established.
+23:24:57 INFO  [database_layer.<init>]: Connection 1 was established.
+23:24:57 INFO  [database_layer.<init>]: Connection 2 was established.
+23:24:58 INFO  [database_layer.<init>]: Connection 3 was established.
+23:24:58 INFO  [database_layer.<init>]: Connection 4 was established.
+23:24:58 INFO  [database_layer.<init>]: JDBC pool of connections initiated.
+23:24:58 INFO  [database_layer.<init>]: Properties file loaded
+23:24:58 INFO  [database_layer.<init>]: Driver loaded
+23:24:58 INFO  [database_layer.<init>]: Connection 0 was established.
+23:24:58 INFO  [database_layer.<init>]: Connection 1 was established.
+23:24:58 INFO  [database_layer.<init>]: Connection 2 was established.
+23:24:58 INFO  [database_layer.<init>]: Connection 3 was established.
+23:24:58 INFO  [database_layer.<init>]: Connection 4 was established.
+23:24:58 INFO  [database_layer.<init>]: JDBC pool of connections initiated.
+23:24:58 INFO  [database_layer.getConnection]: got connection from the pool
+23:24:58 INFO  [database_layer.releaseConnection]: returned  connection to the pool
+23:24:58 INFO  [database_layer.getConnection]: got connection from the pool
+23:24:58 INFO  [database_layer.releaseConnection]: returned  connection to the pool
+23:24:58 INFO  [database_layer.getConnection]: got connection from the pool
+23:24:58 INFO  [database_layer.releaseConnection]: returned  connection to the pool
+23:24:58 INFO  [database_layer.getConnection]: got connection from the pool
+23:24:58 INFO  [database_layer.releaseConnection]: returned  connection to the pool
+23:24:58 INFO  [database_layer.getConnection]: got connection from the pool
+23:24:58 INFO  [database_layer.releaseConnection]: returned  connection to the pool
+23:24:58 INFO  [database_layer.getConnection]: got connection from the pool
+23:24:58 INFO  [database_layer.releaseConnection]: returned  connection to the pool

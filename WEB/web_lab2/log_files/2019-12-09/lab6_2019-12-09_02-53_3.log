@@ -1,0 +1,305 @@
+2019-12-09 02:52:48 INFO  [runner.Server.main]: Register company
+2019-12-09 02:52:56 INFO  [runner.Client.main]: I came to the company
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+ =========== COMPANY FULL STAFF LIST =========== 
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Mark Austin (accountant 1)
+Salary: 400,74
+Department: Finance department
+Experience: 1,7
+Monthly reports amount: 9
+ Calculation areas amount: 3
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Kate Sawyer (accountant 2)
+Salary: 400,83
+Department: Finance department
+Experience: 1,6
+Monthly reports amount: 6
+ Calculation areas amount: 2
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Mary Katy (receptionist)
+Salary: 200,06
+Department: Finance department
+Experience: 1,9
+Monthly reports amount: 11
+ Calls amount: 122
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Dave Winning (foreman)
+Salary: 200,65
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 15
+Subordinated workers amount: 9
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Mitchel Knight (loader 1)
+Salary: 400,16
+Department: Workman department
+Experience: 15,6
+Monthly worked shifts amount: 11
+Max kilos to lift: 3
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Terry Krowly (loader 2)
+Salary: 400,88
+Department: Workman department
+Experience: 15,0
+Monthly worked shifts amount: 15
+Max kilos to lift: 19
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Paul Smith (welder 1)
+Salary: 200,76
+Department: Workman department
+Experience: 15,5
+Monthly worked shifts amount: 11
+Skills to weld ships: NO
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Stacy Connor
+Salary: 200,54
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 19
+Skills to weld ships: NO
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+ =========== Staff of FINANCE DEPARTMENT =========== 
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Mark Austin (accountant 1)
+Salary: 400,74
+Department: Finance department
+Experience: 1,7
+Monthly reports amount: 9
+ Calculation areas amount: 3
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Kate Sawyer (accountant 2)
+Salary: 400,83
+Department: Finance department
+Experience: 1,6
+Monthly reports amount: 6
+ Calculation areas amount: 2
+
+2019-12-09 02:52:57 INFO  [runner.Client.printStaffList]: 
+Name: Mary Katy (receptionist)
+Salary: 200,06
+Department: Finance department
+Experience: 1,9
+Monthly reports amount: 11
+ Calls amount: 122
+
+2019-12-09 02:52:57 INFO  [runner.Client.main]: Try to talk to Name: Mark Austin (accountant 1)
+Salary: 400,74
+Department: Finance department
+Experience: 1,7
+Monthly reports amount: 9
+ Calculation areas amount: 3
+
+2019-12-09 02:52:57 WARN  [runner.Client.main]: java.rmi.ServerError: Error occurred in server thread; nested exception is: 
+	java.lang.StackOverflowError
+2019-12-09 02:52:57 INFO  [runner.Client.main]: I go out from the company
+2019-12-09 02:53:00 INFO  [runner.Client.main]: I came to the company
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+ =========== COMPANY FULL STAFF LIST =========== 
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Mark Austin (accountant 1)
+Salary: 400,74
+Department: Finance department
+Experience: 1,7
+Monthly reports amount: 9
+ Calculation areas amount: 3
+
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Kate Sawyer (accountant 2)
+Salary: 400,83
+Department: Finance department
+Experience: 1,6
+Monthly reports amount: 6
+ Calculation areas amount: 2
+
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Mary Katy (receptionist)
+Salary: 200,06
+Department: Finance department
+Experience: 1,9
+Monthly reports amount: 11
+ Calls amount: 122
+
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Dave Winning (foreman)
+Salary: 200,65
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 15
+Subordinated workers amount: 9
+
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Mitchel Knight (loader 1)
+Salary: 400,16
+Department: Workman department
+Experience: 15,6
+Monthly worked shifts amount: 11
+Max kilos to lift: 3
+
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Terry Krowly (loader 2)
+Salary: 400,88
+Department: Workman department
+Experience: 15,0
+Monthly worked shifts amount: 15
+Max kilos to lift: 19
+
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Paul Smith (welder 1)
+Salary: 200,76
+Department: Workman department
+Experience: 15,5
+Monthly worked shifts amount: 11
+Skills to weld ships: NO
+
+2019-12-09 02:53:01 INFO  [runner.Client.printStaffList]: 
+Name: Stacy Connor
+Salary: 200,54
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 19
+Skills to weld ships: NO
+
+2019-12-09 02:53:03 INFO  [runner.Client.main]: I came to the company
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+ =========== COMPANY FULL STAFF LIST =========== 
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Mark Austin (accountant 1)
+Salary: 400,74
+Department: Finance department
+Experience: 1,7
+Monthly reports amount: 9
+ Calculation areas amount: 3
+
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Kate Sawyer (accountant 2)
+Salary: 400,83
+Department: Finance department
+Experience: 1,6
+Monthly reports amount: 6
+ Calculation areas amount: 2
+
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Mary Katy (receptionist)
+Salary: 200,06
+Department: Finance department
+Experience: 1,9
+Monthly reports amount: 11
+ Calls amount: 122
+
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Dave Winning (foreman)
+Salary: 200,65
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 15
+Subordinated workers amount: 9
+
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Mitchel Knight (loader 1)
+Salary: 400,16
+Department: Workman department
+Experience: 15,6
+Monthly worked shifts amount: 11
+Max kilos to lift: 3
+
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Terry Krowly (loader 2)
+Salary: 400,88
+Department: Workman department
+Experience: 15,0
+Monthly worked shifts amount: 15
+Max kilos to lift: 19
+
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Paul Smith (welder 1)
+Salary: 200,76
+Department: Workman department
+Experience: 15,5
+Monthly worked shifts amount: 11
+Skills to weld ships: NO
+
+2019-12-09 02:53:04 INFO  [runner.Client.printStaffList]: 
+Name: Stacy Connor
+Salary: 200,54
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 19
+Skills to weld ships: NO
+
+2019-12-09 02:53:06 INFO  [runner.Client.main]: I came to the company
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+ =========== COMPANY FULL STAFF LIST =========== 
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Mark Austin (accountant 1)
+Salary: 400,74
+Department: Finance department
+Experience: 1,7
+Monthly reports amount: 9
+ Calculation areas amount: 3
+
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Kate Sawyer (accountant 2)
+Salary: 400,83
+Department: Finance department
+Experience: 1,6
+Monthly reports amount: 6
+ Calculation areas amount: 2
+
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Mary Katy (receptionist)
+Salary: 200,06
+Department: Finance department
+Experience: 1,9
+Monthly reports amount: 11
+ Calls amount: 122
+
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Dave Winning (foreman)
+Salary: 200,65
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 15
+Subordinated workers amount: 9
+
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Mitchel Knight (loader 1)
+Salary: 400,16
+Department: Workman department
+Experience: 15,6
+Monthly worked shifts amount: 11
+Max kilos to lift: 3
+
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Terry Krowly (loader 2)
+Salary: 400,88
+Department: Workman department
+Experience: 15,0
+Monthly worked shifts amount: 15
+Max kilos to lift: 19
+
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Paul Smith (welder 1)
+Salary: 200,76
+Department: Workman department
+Experience: 15,5
+Monthly worked shifts amount: 11
+Skills to weld ships: NO
+
+2019-12-09 02:53:07 INFO  [runner.Client.printStaffList]: 
+Name: Stacy Connor
+Salary: 200,54
+Department: Workman department
+Experience: 15,2
+Monthly worked shifts amount: 19
+Skills to weld ships: NO
+

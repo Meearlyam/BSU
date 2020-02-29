@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <File name="file" fileName="logfile.log">
+            <PatternLayout>
+                <Pattern>%d %p %c [%t] %m %ex%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="trace">
+            <AppenderRef ref="file" level="TRACE"/>
+        </Root>
+    </Loggers>
+</Configuration>

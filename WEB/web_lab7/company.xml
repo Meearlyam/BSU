@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaffList
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.bsu.by"
+        xsi:schemaLocation="http://www.bsu.by schema.xsd">
+
+    <accountant>
+        <name>Accountant1</name>
+        <salary>190.50</salary>
+        <experience>3.4</experience>
+        <department>Financial department</department>
+        <reports>20</reports>
+        <areas>4</areas>
+    </accountant>
+
+    <foreman>
+        <name>Foreman1</name>
+        <salary>220.50</salary>
+        <experience>5.2</experience>
+        <department>Workman department</department>
+        <shifts>15</shifts>
+        <subordinated>20</subordinated>
+    </foreman>
+
+    <welder>
+        <name>Welder1</name>
+        <salary>260.45</salary>
+        <experience>8.4</experience>
+        <department>Workman department</department>
+        <shifts>12</shifts>
+        <isShipbuilder>false</isShipbuilder>
+    </welder>
+
+    <receptionist>
+        <name>Receptionist1</name>
+        <salary>140.20</salary>
+        <experience>5.1</experience>
+        <department>Financial department</department>
+        <reports>15</reports>
+        <calls>40</calls>
+    </receptionist>
+
+    <foreman>
+        <name>Foreman2</name>
+        <salary>420.50</salary>
+        <experience>14.8</experience>
+        <department>Workman department</department>
+        <shifts>10</shifts>
+        <subordinated>70</subordinated>
+    </foreman>
+
+    <welder>
+        <name>Welder2</name>
+        <salary>280.20</salary>
+        <experience>4.1</experience>
+        <department>Workman department</department>
+        <shifts>18</shifts>
+        <isShipbuilder>true</isShipbuilder>
+    </welder>
+
+    <receptionist>
+        <name>Receptionist2</name>
+        <salary>190.45</salary>
+        <experience>6.3</experience>
+        <department>Financial department</department>
+        <reports>13</reports>
+        <calls>53</calls>
+    </receptionist>
+
+    <loader>
+        <name>Loader1</name>
+        <salary>180.0</salary>
+        <experience>1.1</experience>
+        <department>Workman department</department>
+        <shifts>25</shifts>
+        <maxKilos>120</maxKilos>
+    </loader>
+
+    <loader>
+        <name>Loader2</name>
+        <salary>130.0</salary>
+        <experience>0.6</experience>
+        <department>Workman department</department>
+        <shifts>20</shifts>
+        <maxKilos>80</maxKilos>
+    </loader>
+
+    <accountant>
+        <name>Accountant2</name>
+        <salary>124.25</salary>
+        <experience>1.2</experience>
+        <department>Financial department</department>
+        <reports>10</reports>
+        <areas>2</areas>
+    </accountant>
+
+
+</StaffList>

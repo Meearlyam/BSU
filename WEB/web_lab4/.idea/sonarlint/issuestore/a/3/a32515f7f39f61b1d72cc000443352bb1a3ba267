@@ -1,0 +1,25 @@
+
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(¬À½ÿýÿÿÿÿ
+Osquid:S2629“"7Use the built-in formatting to construct this argument.(ù †ç
+Ysquid:S3457¦"AFormat specifiers should be used instead of string concatenation.(¼¾Ãá
+^squid:S2142ª"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(œÜÒ„
+Œsquid:S1319\"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´Üóþÿÿÿÿ
+Tsquid:S2629—"7Use the built-in formatting to construct this argument.(Ù„§Àüÿÿÿÿ
+Osquid:S2629¤"7Use the built-in formatting to construct this argument.(·ù½¬
+Ysquid:S3457œ"AFormat specifiers should be used instead of string concatenation.(Ïÿ¹Ý
+“squid:S1319e"wThe type of the "desiredBooks" object should be an interface such as "List" rather than the implementation "ArrayList".(ù—ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(±™Ï³ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(‘¬Áúÿÿÿÿ
+[squid:S1155Ž">Use isEmpty() to check whether the collection is empty or not.(ë™®®ùÿÿÿÿ
+^squid:S3457—"AFormat specifiers should be used instead of string concatenation.(Ù„§Àüÿÿÿÿ
+–squid:S1319G"zThe type of the "newDesiredBooks" object should be an interface such as "List" rather than the implementation "ArrayList".(¸Ø˜ïþÿÿÿÿ
+Ysquid:S3457¤"AFormat specifiers should be used instead of string concatenation.(·ù½¬
+Xsquid:S3457²"AFormat specifiers should be used instead of string concatenation.(ÞÙÝ9
+Osquid:S2629¦"7Use the built-in formatting to construct this argument.(¼¾Ãá
+Nsquid:S2629²"7Use the built-in formatting to construct this argument.(ÞÙÝ9
+[squid:S1155Ž">Use isEmpty() to check whether the collection is empty or not.(ë™®®ùÿÿÿÿ
+Ysquid:S3457­"AFormat specifiers should be used instead of string concatenation.(‰Õæ¿
+Asquid:S1481l"+Remove this unused "random" local variable.(¼ÝÅf
+Ysquid:S3457“"AFormat specifiers should be used instead of string concatenation.(ù †ç

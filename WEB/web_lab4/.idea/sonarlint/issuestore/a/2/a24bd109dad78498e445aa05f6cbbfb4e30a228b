@@ -1,0 +1,6 @@
+
+8squid:S1170"!Make this final field static too.(–âü¶
+Msquid:S1068"6Remove this unused "TRANSMIT_BOOK_TIME" private field.(–âü¶
+‡"squid:ClassVariableVisibilityCheck"TMake bookLock a static final constant or non-public and provide accessors if needed.(»¤²ãþÿÿÿÿ
+Jsquid:S1068R"3Remove this unused "isIssuedOnHands" private field.(€öÞŠ
+usquid:S00116"]Rename this field "TRANSMIT_BOOK_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–âü¶

@@ -1,0 +1,6 @@
+
+Xsquid:S1444"AMake this "public static TOTAL_VISITORS_ON_RECEPTION" field final(¢ÃøÇ
+•"squid:ClassVariableVisibilityCheck"gMake TOTAL_VISITORS_ON_RECEPTION a static final constant or non-public and provide accessors if needed.(¢ÃøÇ
+`squid:UselessImportCheck"7Remove this unused import 'java.util.SplittableRandom'.(âå ¦þÿÿÿÿ
+}squid:S3008"fRename this field "TOTAL_VISITORS_ON_RECEPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÃøÇ
+]squid:S2142*"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

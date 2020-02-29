@@ -1,0 +1,11 @@
+
+Ssquid:S2629R"7Use the built-in formatting to construct this argument.(’Ω˛Ö˝ˇˇˇˇ
+@squid:S2629U"$Invoke method(s) only conditionally.(¢ùÄƒ˚ˇˇˇˇ
+Nsquid:S2629m"7Use the built-in formatting to construct this argument.(°¡ºè
+Nsquid:S2629p"7Use the built-in formatting to construct this argument.(¡Ìõ£
+Psquid:UselessImportCheck",Remove this unused import 'java.rmi.Remote'.(‘§»”
+Usquid:S1155n">Use isEmpty() to check whether the collection is empty or not.(°» Œ
+<squid:S3457K"%String contains no format specifiers.(‘”ﬁ¶
+]squid:S3457R"AFormat specifiers should be used instead of string concatenation.(’Ω˛Ö˝ˇˇˇˇ
+Xsquid:S3457m"AFormat specifiers should be used instead of string concatenation.(°¡ºè
+Xsquid:S3457p"AFormat specifiers should be used instead of string concatenation.(¡Ìõ£

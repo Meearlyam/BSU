@@ -1,0 +1,9 @@
+
+Usquid:S4973 "9Use the "equals" method if value comparison was intended.(Ãõ¨üÿÿÿÿ
+8squid:S16432"Use a StringBuilder instead.(©•–ıÿÿÿÿ
+Usquid:S4973,"9Use the "equals" method if value comparison was intended.(Ãõ¨üÿÿÿÿ
+3squid:S1643"Use a StringBuilder instead.(ŸÚ«ú
+3squid:S1643+"Use a StringBuilder instead.(ŸÚ«ú
+8squid:S1643!"Use a StringBuilder instead.(á“½ıÿÿÿÿ
+8squid:S1643$"Use a StringBuilder instead.(»‡ºòøÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(Øó´Ÿ

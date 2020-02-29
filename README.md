@@ -1,4 +1,4 @@
 ## BSU, FAMCS, University labs
 
-* [WEB]()
-* [DBMS]()
+* [WEB-программирование](../WEB)
+* [МДиСУБД](../DBMS)

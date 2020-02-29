@@ -1,0 +1,22 @@
+2019-11-18 23:21:33,199 INFO server [main] The server is running on port: 9001 
+2019-11-18 23:21:41,806 INFO server [main] Client try to connect 
+2019-11-18 23:21:41,811 INFO client_1 [main] client_1 connected to server. 
+2019-11-18 23:21:41,813 INFO client_1 [main] Send self name to server. 
+2019-11-18 23:21:41,813 INFO server [main] Server got client name: client_1 
+2019-11-18 23:21:41,813 INFO server [main] Send string: "String 2" to: client_1 
+2019-11-18 23:21:41,813 INFO client_1 [main] client_1 accepted string: "String 2" 
+2019-11-18 23:21:41,814 INFO server [main] Client client_1 disconnected from server 
+2019-11-18 23:21:44,749 INFO server [main] Client try to connect 
+2019-11-18 23:21:44,756 INFO client_2 [main] client_2 connected to server. 
+2019-11-18 23:21:44,758 INFO client_2 [main] Send self name to server. 
+2019-11-18 23:21:44,758 INFO server [main] Server got client name: client_2 
+2019-11-18 23:21:44,758 INFO server [main] Send string: "String 2" to: client_2 
+2019-11-18 23:21:44,758 INFO client_2 [main] client_2 accepted string: "String 2" 
+2019-11-18 23:21:44,758 INFO server [main] Client client_2 disconnected from server 
+2019-11-18 23:21:47,880 INFO server [main] Client try to connect 
+2019-11-18 23:21:47,886 INFO client_3 [main] client_3 connected to server. 
+2019-11-18 23:21:47,888 INFO client_3 [main] Send self name to server. 
+2019-11-18 23:21:47,888 INFO server [main] Server got client name: client_3 
+2019-11-18 23:21:47,888 INFO server [main] Send string: "String 1" to: client_3 
+2019-11-18 23:21:47,888 INFO client_3 [main] client_3 accepted string: "String 1" 
+2019-11-18 23:21:47,888 INFO server [main] Client client_3 disconnected from server 

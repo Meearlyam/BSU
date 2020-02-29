@@ -1,0 +1,24 @@
+23:24:58 INFO  [dao_layer.<init>]: Connection to database from dao initiated
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.readAllTours]: read tours
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.<init>]: Connection to database from dao initiated
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.readOrdersByClientId]: get orders by client id
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.<init>]: Connection to database from dao initiated
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.readBurningToursByTourTypeId]: read burning tours of specified type
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.<init>]: Connection to database from dao initiated
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.insertOrder]: inserted order
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.<init>]: Connection to database from dao initiated
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.updateClientsDiscount]: updated clients discount
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.<init>]: Connection to database from dao initiated
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector
+23:24:58 INFO  [dao_layer.readAllClients]: read clients
+23:24:58 INFO  [dao_layer.getJdbcConnector]: requested to db connector

@@ -1,0 +1,4 @@
+
+~"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+:squid:S3066"#Lower the visibility of this field.( şÍ¾
+‹squid:S1845"tRename field "name" to prevent any misunderstanding/clash with method "name" defined in superclass "java.lang.Enum".( şÍ¾

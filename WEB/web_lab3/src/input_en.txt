@@ -1,0 +1,18 @@
+    Although the program is Example. Java is very simple and the amount of its code is small,
+it has a number of properties common to all Java programs. Let's analyze this program in parts.
+    Its source code starts like this.
+<code>
+    /*
+    This is an example of a simple Java program.
+    Set the source file name is Example.java.
+    */
+<code>
+    These are comments. As with most other programming languages, Java
+it is allowed to comment the source code of the program. Comments are ignored
+compiler. The text of the comments contains a description of the program, intended for those who will view its source code. In this case, the comments indicate that the program is simple, and its source file should be named
+Example.java. Obviously, in real-world applications, comments describe what
+it is the functions that separate fragments of the program perform or why they are used
+certain language constructions.
+    Java supports three kinds of comments. The first of these is given at the beginning
+this program allows you to specify multiline comments.
+They begin with / * and end with * /. Any content that lies between these delimiters is ignored by the compiler.

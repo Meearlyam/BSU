@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<xs:schema
+        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.bsu.by"
+        xmlns="http://www.bsu.by"
+        elementFormDefault="qualified">
+
+    <xs:complexType name="Staff" abstract="true">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="salary" type="xs:double"/>
+            <xs:element name="experience" type="xs:double"/>
+            <xs:element name="department" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="FinancialJob" abstract="true">
+        <xs:complexContent>
+            <xs:extension base="Staff">
+                <xs:sequence>
+                    <xs:element name="reports" type="xs:int"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="Accountant">
+        <xs:complexContent>
+            <xs:extension base="FinancialJob">
+                <xs:sequence>
+                    <xs:element name="areas" type="xs:int"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="Receptionist">
+        <xs:complexContent>
+            <xs:extension base="FinancialJob">
+                <xs:sequence>
+                    <xs:element name="calls" type="xs:int"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="Workman" abstract="true">
+        <xs:complexContent>
+            <xs:extension base="Staff">
+                <xs:sequence>
+                    <xs:element name="shifts" type="xs:int"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="Foreman">
+        <xs:complexContent>
+            <xs:extension base="Workman">
+                <xs:sequence>
+                    <xs:element name="subordinated" type="xs:int"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="Loader">
+        <xs:complexContent>
+            <xs:extension base="Workman">
+                <xs:sequence>
+                    <xs:element name="maxKilos" type="xs:int"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="Welder">
+        <xs:complexContent>
+            <xs:extension base="Workman">
+                <xs:sequence>
+                    <xs:element name="isShipbuilder" type="xs:boolean"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="StaffList">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:choice maxOccurs="unbounded" minOccurs="0">
+                    <xs:element name="foreman" type="Foreman"/>
+                    <xs:element name="loader" type="Loader"/>
+                    <xs:element name="welder" type="Welder"/>
+                    <xs:element name="accountant" type="Accountant"/>
+                    <xs:element name="receptionist" type="Receptionist"/>
+                </xs:choice>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+</xs:schema>

@@ -1,0 +1,25 @@
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-2 try to get book : WAR_AND_PEACE
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-3 try to get book : WAR_AND_PEACE
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-1 try to get book : WAR_AND_PEACE
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-2 took the book : WAR_AND_PEACE
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-2 try to get book : FALL_EXILE_KINGDOM
+2019-11-25 18:41:50 WARN  [model.Reader]: Thread-3 Cannot take this book yet
+2019-11-25 18:41:50 WARN  [model.Reader]: Thread-1 Cannot take this book yet
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-2 took the book : FALL_EXILE_KINGDOM
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-3 try to get book : FALL_EXILE_KINGDOM
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-1 try to get book : FALL_EXILE_KINGDOM
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-2 try to read book : Book : 'WAR_AND_PEACE', Reader ID : 2
+2019-11-25 18:41:50 WARN  [model.Reader]: Thread-1 Cannot take this book yet
+2019-11-25 18:41:50 WARN  [model.Reader]: Thread-3 Cannot take this book yet
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-1 try to get book : GREEN_MILE
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-3 try to get book : GREEN_MILE
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-1 took the book : GREEN_MILE
+2019-11-25 18:41:50 WARN  [model.Reader]: Thread-3 Cannot take this book yet
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-1 try to read book : Book : 'GREEN_MILE', Reader ID : 1
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-3 successfully finished.
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-1 read the book : Book : 'GREEN_MILE', Reader ID : 1
+2019-11-25 18:41:50 INFO  [model.Reader]: Thread-1 successfully finished.
+2019-11-25 18:41:51 INFO  [model.Reader]: Thread-2 read the book : Book : 'WAR_AND_PEACE', Reader ID : 2
+2019-11-25 18:41:51 INFO  [model.Reader]: Thread-2 try to read book : Book : 'FALL_EXILE_KINGDOM', Reader ID : 2
+2019-11-25 18:41:51 INFO  [model.Reader]: Thread-2 read the book : Book : 'FALL_EXILE_KINGDOM', Reader ID : 2
+2019-11-25 18:41:51 INFO  [model.Reader]: Thread-2 successfully finished.
