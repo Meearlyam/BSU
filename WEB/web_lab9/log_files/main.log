@@ -1,0 +1,33 @@
+13:34:54 ERROR [view.View.main]: Failed to take tour by it's id
+exception.TourAgencyControllerException: Failed to take tour by it's id
+	at controller.TourAgencyController.makeAnOrder(TourAgencyController.java:98) ~[lab2_JPA/:?]
+	at view.View.main(View.java:44) [lab2_JPA/:?]
+Caused by: exception.TourDAOExecutionException: Query argument id not found in the list of parameters provided during query execution.
+	at TourDAO.readTourById(TourDAO.java:57) ~[lab2_JPA/:?]
+	at controller.TourAgencyController.makeAnOrder(TourAgencyController.java:94) ~[lab2_JPA/:?]
+	... 1 more
+13:36:18 ERROR [view.View.main]: Failed to take tour by it's id
+exception.TourAgencyControllerException: Failed to take tour by it's id
+	at controller.TourAgencyController.makeAnOrder(TourAgencyController.java:98) ~[lab2_JPA/:?]
+	at view.View.main(View.java:44) [lab2_JPA/:?]
+Caused by: exception.TourDAOExecutionException: Query argument id not found in the list of parameters provided during query execution.
+	at TourDAO.readTourById(TourDAO.java:57) ~[lab2_JPA/:?]
+	at controller.TourAgencyController.makeAnOrder(TourAgencyController.java:94) ~[lab2_JPA/:?]
+	... 1 more
+13:38:09 ERROR [view.View.main]: Failed to take client by it's id
+exception.TourAgencyControllerException: Failed to take client by it's id
+	at controller.TourAgencyController.makeAnOrder(TourAgencyController.java:100) ~[lab2_JPA/:?]
+	at view.View.main(View.java:44) [lab2_JPA/:?]
+Caused by: exception.ClientDAOExecutionException: Query argument id not found in the list of parameters provided during query execution.
+	at ClientDAO.readClientById(ClientDAO.java:63) ~[lab2_JPA/:?]
+	at controller.TourAgencyController.makeAnOrder(TourAgencyController.java:94) ~[lab2_JPA/:?]
+	... 1 more
+13:38:43 ERROR [view.View.main]: Failed to set discount to clients
+exception.TourAgencyControllerException: Failed to set discount to clients
+	at controller.TourAgencyController.setDiscountToClients(TourAgencyController.java:112) ~[lab2_JPA/:?]
+	at view.View.main(View.java:46) [lab2_JPA/:?]
+Caused by: exception.ClientDAOExecutionException:
+Exception Description: No transaction is currently active
+	at ClientDAO.updateClientsDiscount(ClientDAO.java:85) ~[lab2_JPA/:?]
+	at controller.TourAgencyController.setDiscountToClients(TourAgencyController.java:109) ~[lab2_JPA/:?]
+	... 1 more
