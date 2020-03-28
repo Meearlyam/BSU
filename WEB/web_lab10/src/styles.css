@@ -1,0 +1,54 @@
+.page-form {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+header {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+}
+header a {
+    color: deepskyblue;
+}
+.page-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+.page-container .page-form {
+    width: 350px;
+}
+.page-container .page-table {
+    width:  900px;
+}
+
+.page-container .page-table thead {
+    color: #007bff;
+}
+
+h2, a, p {
+    margin: 30px;
+}
+
+p {
+    font-size: 21px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+li {
+    margin-left: 50px;
+}
+
+a {
+    font-size: 18px;
+}
