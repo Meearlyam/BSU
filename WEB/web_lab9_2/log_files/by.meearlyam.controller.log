@@ -1,0 +1,18 @@
+21:32:33 INFO  [controller_layer.getAllToursOfAgency]: got all tours of agency
+21:32:33 INFO  [controller_layer.getOrdersByClientId]: got orders by client id
+21:32:33 INFO  [controller_layer.getBurningToursByTourTypeId]: got burning tours of specified type
+21:32:33 INFO  [controller_layer.makeAnOrder]: made new order
+21:32:33 INFO  [controller_layer.setDiscountToClients]: set discount to clients
+21:32:33 INFO  [controller_layer.getAllClientsOfAgency]: got all clients of agency
+21:49:03 INFO  [controller_layer.getAllToursOfAgency]: got all tours of agency
+21:49:03 INFO  [controller_layer.getOrdersByClientId]: got orders by client id
+21:49:03 INFO  [controller_layer.getBurningToursByTourTypeId]: got burning tours of specified type
+21:49:03 INFO  [controller_layer.makeAnOrder]: made new order
+21:49:03 INFO  [controller_layer.setDiscountToClients]: set discount to clients
+21:49:03 INFO  [controller_layer.getAllClientsOfAgency]: got all clients of agency
+21:49:32 INFO  [controller_layer.getAllToursOfAgency]: got all tours of agency
+21:49:32 INFO  [controller_layer.getOrdersByClientId]: got orders by client id
+21:49:32 INFO  [controller_layer.getBurningToursByTourTypeId]: got burning tours of specified type
+21:49:32 INFO  [controller_layer.makeAnOrder]: made new order
+21:49:32 INFO  [controller_layer.setDiscountToClients]: set discount to clients
+21:49:32 INFO  [controller_layer.getAllClientsOfAgency]: got all clients of agency
